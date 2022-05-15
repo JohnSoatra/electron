@@ -1,0 +1,14 @@
+{
+  "name": "shopping",
+  "version": "1.0.0",
+  "description": "shopping list",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "soatra",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^18.2.0"
+  }
+}
